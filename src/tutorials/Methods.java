@@ -11,7 +11,7 @@ public class Methods {
 
         sayHello("hamit");
 
-        Araba.isItGood("Mercedes");
+        Araba.isItGood("Renault");
     }
 
     private static void printHelloWorld() {
