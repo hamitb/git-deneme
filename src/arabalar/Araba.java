@@ -15,6 +15,9 @@ public class Araba {
             case "BMW":
                 System.out.println(brand + " is bad!");
                 break;
+            case "Ford":
+                System.out.println(brand + " is bad!");
+                break;
             default:
                 break;
         }
